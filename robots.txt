@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://verzuim.dashboard.arian-shafa.xyz/sitemap.xml
